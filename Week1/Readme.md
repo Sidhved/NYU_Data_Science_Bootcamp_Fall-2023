@@ -3,7 +3,7 @@
 1. Display Fibonacci Series upto 10 terms : [1-Fibonacci.py](https://github.com/Sidhved/NYU_Data_Science_Bootcamp_Fall-2023/blob/main/Week1/1-Fibonacci.py)
 2. Display numbers at the odd indices of a list :[2-OddIndex.py](https://github.com/Sidhved/NYU_Data_Science_Bootcamp_Fall-2023/blob/main/Week1/2-OddIndex.py)
 3. Print a list in reverse order : [3-ReverseList.py](https://github.com/Sidhved/NYU_Data_Science_Bootcamp_Fall-2023/blob/main/Week1/3-ReverseList.py)
-4. Your task is to count the number of different words in this text : [4-UniqueWords.py](https://github.com/Sidhved/NYU_Data_Science_Bootcamp_Fall-2023/blob/main/Week1/4-UniqueWords.py)\n
+4. Your task is to count the number of different words in this text : [4-UniqueWords.py](https://github.com/Sidhved/NYU_Data_Science_Bootcamp_Fall-2023/blob/main/Week1/4-UniqueWords.py)
 string = """ChatGPT has created this text to provide tips on creating interesting paragraphs.
 First, start with a clear topic sentence that introduces the main idea.
 Then, support the topic sentence with specific details, examples, and evidence.
