@@ -1,0 +1,4 @@
+SELECT *
+FROM orders
+ORDER BY revenue DESC
+LIMIT 1;
